@@ -14,7 +14,7 @@ global.gopay = '082253479547'
 
 //=============『 Info Bot 』=================//
 global.namebot = '⌬ LEXA-MD'
-global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
+global.gc = 'https://chat.whatsapp.com/CXh8962GOxK6cwDwLjlABw'
 global.web = 'https://instagram.com/katyushaclara' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '◩─────〔 *SEWA*〕──────◩\n1 Bulan = 12.000\n2 Minggu = 7.000\n1 Minggu = 5.000\n◩────────────────────◩'
 
