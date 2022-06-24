@@ -20,7 +20,7 @@ global.price1 = '◩─────〔 *SEWA*〕──────◩\n1 Bulan =
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/42f6da98e7fac8be363eb.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/2625af86c7d3902adcecd.jpg' //ini juga ganti 
+global.fotonya2 = 'https://telegra.ph/file/fc5b8ab2bfbb8e7b388a4.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '⌬ LEXA-MD'
