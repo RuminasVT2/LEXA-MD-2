@@ -417,6 +417,7 @@ module.exports = {
                 if (chat) {
                     if (!('isBanned' in chat)) chat.isBanned = false
                     if (!('welcome' in chat)) chat.welcome = true
+                    if (!('backup' in chat)) chat.backup = true
                     if (!('detect' in chat)) chat.detect = false
                     if (!('sWelcome' in chat)) chat.sWelcome = ''
                     if (!('sBye' in chat)) chat.sBye = ''
@@ -429,6 +430,7 @@ module.exports = {
                 } else global.db.data.chats[m.chat] = {
                     isBanned: false,
                     welcome: true,
+                    backup: true,
                     detect: false,
                     sWelcome: '',
                     sBye: '',
@@ -708,7 +710,7 @@ module.exports = {
                         } finally {
                             text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yah,si Beban Masuk Grup').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
                                 (chat.sBye || this.bye || conn.bye || 'Sip, Beban Berkurang 1'))
-                                this.sendButtonImg(id, pp, text, "Group Message", "Hi Beban 👋", "wkwk", null)
+                                this.sendButtonImg(id, pp, text, "Group Message", "H A I", "wkwk", null)
                                 }
                     }
                 }
