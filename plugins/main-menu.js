@@ -328,7 +328,12 @@ let menuu = `\n╭━━━━┈⎔ *INFO BOT*
 │ *Date* : ${week} ${date}
 │ *Runtime* : ${uptime}
 ╰━━━━━━━━━━━━┈⎔
- 
+
+Bot Ke-2
+
+wa.me/6285159258830
+
+
 ICON INFO
 Ⓛ = Fitur Memakai Limit
 Ⓟ = Fitur Khusu Premium User   
